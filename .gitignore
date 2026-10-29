@@ -1,0 +1,18 @@
+# Environnement virtuel 
+
+.venv/
+venv/
+env/
+
+#cache Python et packages
+
+__pycache__/
+*.pyc
+.cache/
+
+# Fichiers audio de test et données lourdes
+
+*.wav
+*.mp3
+data/
+models/
